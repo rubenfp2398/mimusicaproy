@@ -1,0 +1,2 @@
+pop uno -conocido 
+pop dos -desconocido
